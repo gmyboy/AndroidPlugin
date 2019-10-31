@@ -1,5 +1,18 @@
 apply plugin: 'com.android.application'
 
+//apply plugin: 'com.gmyboy.plugin.deployer'
+//deployer {
+//    appId = '900037672'
+//    appKey = 'bQvYLRrBNiqUctfi'
+//    url = 'http://a.ssei.cn/sseiserver/admin/deployer/'
+//    user = 'gmy'
+//    password = '123456'
+//    desc = "#检验结论'整改'改成'空白'，并修改相关结论的判断规则"
+//    enable = true
+//    autoUpload = true
+//    debugOn = false
+//}
+
 android {
     compileSdkVersion 28
     buildToolsVersion "29.0.2"
