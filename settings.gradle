@@ -1,0 +1,2 @@
+include ':app', ':deployer'
+rootProject.name='AndroidPlugin'
